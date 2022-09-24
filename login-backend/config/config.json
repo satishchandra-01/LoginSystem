@@ -1,0 +1,12 @@
+{
+    "MONGO_ATLAS_PW" : "test",
+    "MONGO_ATLAS_USER" : "test",
+    "MONGO_URL" : "mongodb+srv://satish:satish@cluster0.ppbrw8j.mongodb.net/?retryWrites=true&w=majority",
+    "ADMIN_JWT_KEY" : "1234",
+    "EMAIL":"dev.codeunity1@gmail.com",
+    "CLIENT_ID":"972702483567-tla3c6pj0idhkdk6aa9v0htt5u0eluch.apps.googleusercontent.com",
+    "CLIENT_SECRET":"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",
+    "REDIRECT_URI":"https://developers.google.com/oauthplayground",
+    "REFRESH_TOKEN":"1//04I3_k-PLXzDDCgYIARAAGAQSNwF-L9IrVanim2gY7bZxD8FcS5CwpAZuh5Z64YiOj7nkkio8wJvdOHndmlXSBPfbcts94_tbidw",
+    "MESSAGE_KEY":"rSqBvZerMKigxxpzB8eFjhQ3RtKDgR5bfm5delUvaQ9WVKrH27JTppl7iBgq"
+}
