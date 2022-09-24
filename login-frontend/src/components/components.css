@@ -1,0 +1,13 @@
+.logotext{
+    margin-left: 4px;
+    color: black;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.cardHover{
+    cursor: pointer
+}
